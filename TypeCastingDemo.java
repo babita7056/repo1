@@ -1,3 +1,4 @@
+//8. Write a program to demonstrate implicit and explicit type casting.
 public class TypeCastingDemo {
     public static void main(String[] args) {
         int x = 10;

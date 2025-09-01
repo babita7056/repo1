@@ -1,3 +1,4 @@
+//7. Write a program to print default values of instance variables in a class.
 public class DefaultValues {
   
     byte b;

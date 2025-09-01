@@ -1,3 +1,4 @@
+//15. Write a program to show memory allocation difference between primitive and reference variables.
 public class MemoryAllocation {
     public static void main(String[] args) {
         int x = 10;                 

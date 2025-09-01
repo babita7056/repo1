@@ -1,3 +1,4 @@
+//11. Write a program to show the difference between char and String data types.
 public class CharVsString {
     public static void main(String[] args) {
         char c = 'A';          

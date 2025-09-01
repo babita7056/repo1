@@ -1,3 +1,4 @@
+//1.Write a Java program to declare and print all primitive data types
 public class PrimitiveDataTypes {
     public static void main(String[] args) {
         byte b = 100;                

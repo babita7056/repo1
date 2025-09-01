@@ -1,3 +1,4 @@
+//20. Write a program to declare a volatile variable and explain its use in multithreading.
 public class VolatileDemo {
     private static volatile boolean flag = false;
 

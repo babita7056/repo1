@@ -1,4 +1,5 @@
-public class SwapNumbersWithoutTemp {
+//4. Write a program to swap two numbers without using a third variable
+public class SwapNumWithoutTemp {
     public static void main(String[] args) {
         int a = 10, b = 20;
         System.out.println("Before swap: a = " + a + ", b = " + b);

@@ -1,3 +1,4 @@
+//12. Write a program to demonstrate type promotion in arithmetic operations.
 public class TypePromotionDemo {
     public static void main(String[] args) {
         byte a = 10;

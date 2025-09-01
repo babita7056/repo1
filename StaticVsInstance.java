@@ -1,3 +1,4 @@
+//13. Write a program to show the difference between static and instance variables.
 public class StaticVsInstance {
     static int staticVar = 100;  
     int instanceVar = 50;        
