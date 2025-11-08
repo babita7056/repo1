@@ -1,11 +1,3 @@
-//5. Doubly Linked List: Library Management System
-// Problem Statement: Design a library management system using a doubly linked list. Each node represents a book and contains the following attributes: Book Title, Author, Genre, Book ID, and Availability Status. Implement the following functionalities:
-// Add a new book at the beginning, end, or at a specific position.
-// Remove a book by Book ID.
-// Search for a book by Book Title or Author.
-// Update a book’s Availability Status.
-// Display all books in forward and reverse order.
-// Count the total number of books in the library.
 
 package LinkedList;
 class MNode{
